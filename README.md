@@ -27,6 +27,19 @@ We leverage the latest technologies to build robust and scalable applications:
 - **DevOps & CI/CD:** Docker, Kubernetes, GitHub Actions
 - **Mobile Development:** Flutter, React Native, Swift, Kotlin
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devnettechnologies&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devnettechnologies&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+## 🔥 Recent Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devnettechnologies&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devnettechnologies&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devnettechnologies&theme=tokyonight" alt="Most Used Language"/>
+</p>
+
 ## 🎯 Why Choose Us?
 ✅ Experienced team of developers and engineers  
 ✅ Cutting-edge technology stack  
@@ -44,11 +57,17 @@ We would love to collaborate with you! Feel free to reach out to us:
 📞 **Phone:** +123 456 7890  
 
 ### 🌍 Connect with Us
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/devnettechnologies)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/devnettechnologies)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://facebook.com/devnettechnologies)
+<p align="center">
+  <a href="https://www.linkedin.com/company/devnettechnologies"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/devnettechnologies"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://facebook.com/devnettechnologies"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" /></a>
+</p>
 
 ---
 
 💡 **"Empowering Businesses with Innovative Software Solutions."**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
